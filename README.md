@@ -1,4 +1,4 @@
-# Node.js CLI-based TASK MANAGER APP
+# Node.js CLI-based TODO LIST APP.
 
 Clone this repository: 
 ```Bash
